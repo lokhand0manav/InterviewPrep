@@ -1,0 +1,62 @@
+- Shell scripts.
+- Angular decorators and their types
+- Angular Pipes
+- Angular Controllers
+- Difference between HTTP methods : mainly : PUT PATCH,
+- - Try and finally in called method and try catch in calling method
+- What about exception thrown in catch
+- Generic set
+   - It accepts the bound itself (unbound extends super)
+- Thread set
+- Find first occurrence of substring in a string with wildcard()
+- Typeahead Suggestions
+- ### Angular: 
+   - Take an open-source project and learn from it
+   - How to test in angular (as I am thinking of saying that I have 6 months of experience in Angular and in my current org I am using angular.
+   - Angular CLIs.
+   - What is rxjs
+   - Angular.json vs package.json vs tsconfig.app.json
+   - can we use .js files with angular?
+   - Can we use js in ts file
+   - Types in angular 
+   - Why is it recommended to use `ngOnInit()` over `constructor()`
+	   - Solution:=> You should use constructor() to setup Dependency Injection and not much else. ngOnInit() is better place to "start" - it's where/when components' bindings are resolved.
+   - How a css class can be used to provide properties to child of an element 
+   - Can we provide styling as interpolation? `{{}}`
+      - Why does it require to be a `[]` property directive
+   - Learn `*ngFor` directives
+   - How to generate new module
+   - Why do we have to add a module in import of app module and also import in component, what purpose does it server?
+      - Context : have to add httpModule into app module to use httpclientcomponent in app component 
+    - Are getter setter `lambok`ed in angular? When injected a var in constructor we don't declare a variable we directly use the argument
+    - Which component is responsible for injection of object.
+    - Do we have to add a name property in `form` which can be used for ngModel two-way binding `[()]`
+    - How to add `form validation` in angular?
+    - Can we `@Output` something without EventEmitter
+       - Significance of Output() paranthesis
+    - `Subscribe` vs `promise` 
+    - routerModule.forRoot <-- significance of this
+    - what if a component is not declared in declaration of module?
+- ### JAVA
+	- Autoboxing
+	- Comparable vs Comparator
+	- Callable Interface
+	- Volatile
+	- Atomic
+	- Has A , Is A
+	- Can you start a Thread twice
+	- ThreadPool types of ThreadPool
+	- ExecutorService
+	- Hashmap vs Hashset
+	- Can treeset and hashset take in null values.
+		- TreeSet cannot as it has comparator being used
+	- If you want to have ordering on a UserDefined class without modifying it what will you use?
+		- Comparator. Comparable requires implementing
+	- How do you serialize a class
+	- Which method of hashset calculates the index of bucket ?
+	- Countdown latch and cyclic (something dont recall)
+	- 
+- ### SQL:
+	- Index types of it
+	- superkey, primarykey, candidatekey foreignKey
+	- 

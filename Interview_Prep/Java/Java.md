@@ -1,0 +1,38 @@
+- [[Design Patterns]]
+- [[Solid Principles]]
+- [[Java_Memory_Model]]
+- [[Java_Facts]]
+- [[Java_Collections]]
+- [[Java_MultiThreading-Concurrency]]
+- [[Java_Generics]]
+- Java 8 Features
+	- Java 8 tries to embrace the Functional Programming aspect, functional Programming embraces:
+		- Creating immutable Objects
+		- More concise and readable code
+		- and Treating functions as a first class citizens (You can pass function as parameters just like javascript)
+	- Declarative vs Imperative:
+		- Imperative - 'How' style of programming:
+			- Example #1: ![[Pasted image 20220819111441.png]]
+		- Declarative - 'What' style of programming:
+			- ![[Pasted image 20220819111535.png]]
+			- Just like how we don't care about the way SQL fetches the data from table, we are only concerned with the result....
+		- Difference:
+			- ![[Pasted image 20220819141105.png]]
+			- Basically he used the library functions aready available for the result.
+			- So here the sum variable is mutating every iterations, in multithreaded environment this could be dangerous
+			- Example #2: ![[Pasted image 20220819142507.png]]
+- Sorting algo:
+	- Bubble : 
+		- bar bar ek ek, we get the largest element in first iteration
+	- Insertion Sort: 
+		- Like Cards, left most is always sorted
+		- Nothing is properly sorted yet, left is sorted and right is not.
+	- Merge Sort: 
+		- Divide conquer, first bring them to atomic and then while merging sort them
+	- Quick Sort: 
+		- Take a pivot, 
+		- the pivot element after the first iteration will be at it's correct position
+	- Selection Sort
+		- select minimum and sort, so we get the smallest element in the first iteration
+	- Tim Sort (The insertion merge sort (My definition))
+		- 

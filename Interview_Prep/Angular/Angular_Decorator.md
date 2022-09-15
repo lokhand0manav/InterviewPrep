@@ -1,0 +1,35 @@
+## More about decorator: 
+- ### Ref  
+	- https://www.pluralsight.com/guides/defining-metadata-with-a-decorator-in-angular
+	- https://www.youtube.com/watch?v=cWKfOmKRjtc
+	- 
+- The whole purpose of Angular decorators is to store metadata about a class, method, or property.
+- There are four types of decorators in Angular:
+	- Class Decorators
+		- Class Decorators are the top-level decorators that are used to define the purpose for the classes.
+		- Eg:
+			- NgModule
+				- ![[Pasted image 20220822210922.png]]
+				- bootstrap  : Which component will start when this module starts
+				- Providers : For services, which mostly are singlton, so to inject their Objects here
+				- imports : Module that your module will use, could be user defined or the library
+				- declarations: Components present in your module
+			- Component
+				- ![[Pasted image 20220822211332.png]]
+				- 
+			- Injectable
+			- Pipe
+			- Directive
+	- Property Decorators
+		- Property decorators are used to decorate the specific properties within the classes.
+		- Eg:
+			- Input
+			- Output
+			- ViewChild
+			- ViewChildren
+	- Method Decorators
+		- Eg:
+			- HostListner
+	- Parameter Decorators
+		- Inject
+- 

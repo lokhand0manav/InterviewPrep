@@ -1,0 +1,18 @@
+- ## Algorithms
+	- Dijistra's Shortest Path alogrithm
+		- https://www.youtube.com/watch?v=EFg3u_E6eHU
+		- **Watched** the video | Not practiced
+	- Priority Queue and its uses
+		- Not Watched | Not practiced
+- ## System Design
+	- ### Whatsapp
+		- https://www.youtube.com/watch?v=vvhC64hQZMk&t=139s
+		- **Watched** the video | Not practiced
+			- What I learned along the way:
+				- WebSockets : Full Duplex bidirectional connection
+				- UDP is not a reliable procotol and is also a Transport layer protocol just like TCP.
+				- Even though HTTP is stateless protocol at Application layer, it uses TCP protocol at Transport layer which is actually a Stateful protocol. do not confuse this with UDP, even though like HTTP UDP also is stateless
+				- Client side session and Server side session
+		- ### Consistent Hashing
+			- Not watched | Not practiced
+			- 

@@ -1,0 +1,17 @@
+- Naukri :
+	- Hexaware
+	- IDiGiCloud
+	- Morgan Stanley
+	- BillDesk
+	- Tech Mahindra
+	- 
+- GeekTrust
+	- Zensar: Service based
+		- What technologies various services might ask for, and travelling is fine but is it stay at some onsite?
+		- Remote
+	- Jiva : Product based company
+		- Have to check along with ruby on rails and Java, what technology they work on.
+		- And is the product still under development
+		- Remote
+- LinkedIn
+	- 

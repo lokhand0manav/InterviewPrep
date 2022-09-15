@@ -1,0 +1,28 @@
+- ## Java Facts:
+	- Exception Handling
+		- ![[Pasted image 20220821224302.png]]
+		- ![[Pasted image 20220821224319.png]]
+		- Ordering of catch block matters. If you are trying to catch a Extended Exception, and keep the catch for Super of the thrown exception above it, the 'super' catch will catch that exception. But atually java throws a **compile time exception** at this point.:
+			- java: exception **java.lang.ArithmeticException** has already been caught
+		- In case of **System.exit(1)**, finally block won't be called
+		- Finally overrides the try/catch return statements if there is written any.
+	- System.exit(int) <-- 0 |-> successful, 1 or -1 unsuccessful termination
+	- You need to have an explicit default constructor in your super class if you are calling it from subclass. (If Super class only has a param constructor). Also in subclass constructor you will always have to call a super(param) if you superClass doesnt have a default constructor
+	- Java8 Introduced `Function` Interface, this is to enable Functional Aspect of java for Lambda Expression. Java Streams use it thoroughly. 
+		- You can declare a function and .apply its Object and it will be called.
+		- `Function<String, Integer> func = x -> x.length();` 
+		 `Function<Integer, Integer> func2 = x -> x * 2; 
+		 `Integer result =func.andThen(func2).apply("mkyong");`
+	 - Java can accept `9_9_9` as an integer. but `_9` is not accepted
+		 -  Underscores are allowed between any two digits in a numeric literal. Underscores are not allowed adjacent to a decimal point
+	 - Java class has following blocks : Static Block `static{}` and anonymous block `{}`
+		 - The static block gets called first( and only once when class is loaded in memory) then anonymous and then constructor.
+		 - ![[Pasted image 20220823093254.png]]
+	 - Inheritance
+		 - You cant give more restrictive access specifier to a derived/ overriden method in java
+		 - super.super.callMethod() is not allowed in java.
+	 - In Java, **fields of classes and objects that do not have an explicit initializer** and elements of arrays are a**utomatically initialized with the default value** for their type (false for boolean, 0 for all numerical types, null for all reference types). **Local variables in Java must be definitely assigned to before they are accessed**, or it is a compile error.
+	 - In Java , state of Object means the variables, and behaviour means the methods in that object class
+	 - If you have overloaded a method with one taking Object as input and another taking String as input, when you call them with null value -> method with String will get called
+		 - The thing in this case is the subclass method will be called first and not the super one
+	 - You can extend static inner class not a normal inner class

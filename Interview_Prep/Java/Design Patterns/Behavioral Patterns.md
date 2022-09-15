@@ -1,0 +1,11 @@
+### Behavioral Patterns
+- Chain of Responsibility
+- Iterator
+- memento
+- State
+- Template Method
+- Command
+- Mediator
+- Observer
+- Strategy
+- Visitor

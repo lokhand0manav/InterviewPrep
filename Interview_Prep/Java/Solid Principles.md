@@ -1,0 +1,6 @@
+- ## Solid Principles
+	- ### Single Responsibility Principle
+	- ### Open Close Principle
+	- ### Liskov's Substitution
+	- ### Interface seggregation
+	- ### Dependency Inversion

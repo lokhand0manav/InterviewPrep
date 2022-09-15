@@ -1,0 +1,7 @@
+- Ref : https://www.youtube.com/watch?v=NTop3VTjmxk
+	- ![[Pasted image 20220912185742.png]]
+	- Find the partition in smaller array, The size of this partition + the size of first few elements of Array2 should be equal to left half of the final merged array.
+	- As the arrays are sorted above can be achieved using Binary Search principal. Our stopping codition will be left > right. and our matching codition will be
+		- left1 < right2 and left2 < right1. where left1 is value before partition in first array, left2 is value before partition in second array, similarly for right1 and right2.
+		- left1 and right1 are always going to be in sync as they are indices of the same sorted array, hence we are comparing skewed values.
+	- As per the screenshot, the second combo follows the above condition. As you can see, this combination actually contains the values that will be present in the left half of the final merged array. we are not concerned with actual order, we just want to find the median, hence l1,right1,left2 right2 is what we are concerned about 

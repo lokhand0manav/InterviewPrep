@@ -1,0 +1,7 @@
+- [[SpringBoot_Interview_Questions]]
+- [[SpringBoot_Doubts]]
+- What does spring framework provides? Ref : https://www.youtube.com/watch?v=gq4S-ovWVlM
+	- Application Context and Dependency Injection
+	- Data Access : JDBC is painfull to use ya'know
+	- For web applications it provides Spring MVC. YOu can use this framework to make web application pages, which will consume REST etc..
+- 
