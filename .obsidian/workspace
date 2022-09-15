@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Interview_Prep/Morgan_Stanley_Interview_Prep_checkList.md",
+            "file": "Job Applied Via.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview_Prep/Morgan_Stanley_Interview_Prep_checkList.md",
+                "file": "Job Applied Via.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview_Prep/Morgan_Stanley_Interview_Prep_checkList.md",
+                "file": "Job Applied Via.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview_Prep/Morgan_Stanley_Interview_Prep_checkList.md"
+                "file": "Job Applied Via.md"
               }
             }
           }
@@ -131,14 +131,14 @@
   "active": "547ee780c4631178",
   "lastOpenFiles": [
     "Laptop internal Keyboard Disabled.md",
-    "Interview_Prep/Learn.md",
+    "Job Applied Via.md",
+    "Interview_Prep/Java/Images_Screenshots/Pasted image 20220912185742.png",
     "Interview_Prep/Morgan_Stanley_Interview_Prep_checkList.md",
+    "Interview_Prep/Learn.md",
     "Interview_Prep/Java/Design Patterns/Behavioral Patterns.md",
     "Interview_Prep/Java/Design Patterns/Creational Patterns.md",
     "Interview_Prep/Java/Design Patterns/Structural Patterns.md",
     "Interview_Prep/Java/SpringBoot/SpringBoot_Interview_Questions.md",
-    "Interview_Prep/Java/SpringBoot/SpringBoot_Doubts.md",
-    "Interview_Prep/Java/SpringBoot/SpringBoot.md",
-    "Interview_Prep/Java/Java_Facts.md"
+    "Interview_Prep/Java/SpringBoot/SpringBoot_Doubts.md"
   ]
 }
