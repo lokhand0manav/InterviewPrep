@@ -1,0 +1,10 @@
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/yangshun/tech-interview-handbook
+- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/vasanthk/how-web-works
+- https://github.com/lydiahallie/javascript-questions
+- https://github.com/donnemartin/system-design-primer
+- https://github.com/sudheerj/reactjs-interview-questions
+- https://github.com/DopplerHQ/awesome-interview-questions
+- https://github.com/codecrafters-io/build-your-own-x
+- https://github.com/TheAlgorithms/Javascript

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Job Applied Via.md",
+            "file": "GitHub_Important_Links.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job Applied Via.md",
+                "file": "GitHub_Important_Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job Applied Via.md",
+                "file": "GitHub_Important_Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job Applied Via.md"
+                "file": "GitHub_Important_Links.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "547ee780c4631178",
   "lastOpenFiles": [
-    "Laptop internal Keyboard Disabled.md",
+    "Excalidraw/Drawing 2022-09-21 16.19.08.excalidraw.md",
+    "Untitled 1.md",
+    "2022-09-21.md",
+    "GitHub_Important_Links.md",
     "Job Applied Via.md",
+    "Laptop internal Keyboard Disabled.md",
     "Interview_Prep/Java/Images_Screenshots/Pasted image 20220912185742.png",
     "Interview_Prep/Morgan_Stanley_Interview_Prep_checkList.md",
     "Interview_Prep/Learn.md",
-    "Interview_Prep/Java/Design Patterns/Behavioral Patterns.md",
-    "Interview_Prep/Java/Design Patterns/Creational Patterns.md",
-    "Interview_Prep/Java/Design Patterns/Structural Patterns.md",
-    "Interview_Prep/Java/SpringBoot/SpringBoot_Interview_Questions.md",
-    "Interview_Prep/Java/SpringBoot/SpringBoot_Doubts.md"
+    "Interview_Prep/Java/Design Patterns/Behavioral Patterns.md"
   ]
 }
